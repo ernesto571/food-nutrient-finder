@@ -49,7 +49,7 @@ Powered by the **[OpenFoodFacts API](https://world.openfoodfacts.org/)**, it pro
 #### 1. Clone the repository  
 ```bash
 git clone https://github.com/ernesto571/food-nutrient-finder.git
-cd nutriscan
+cd food-nutrient-finder
 ```
 
 #### 2. Install dependencies  
